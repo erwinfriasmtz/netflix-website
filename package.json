@@ -1,6 +1,6 @@
 {
   "name": "netflix-website",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Netflix Landing Page Clone",
   "main": "index.js",
   "scripts": {
